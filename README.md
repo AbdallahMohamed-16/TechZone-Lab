@@ -98,6 +98,9 @@ Design and implement a complete IT infrastructure that integrates:
 - Add a **Firewall** (e.g., pfSense) for network security.
 
 ---
+## 🗺️ Network Topology
+![Topology](screenshots/topology.png)
+
 
 ## 👨‍💻 Author
 Abdallah Mohamed - [LinkedIn](https://www.linkedin.com/in/abdallah-mohamed-1928851b5)
