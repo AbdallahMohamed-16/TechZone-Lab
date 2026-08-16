@@ -100,4 +100,4 @@ Design and implement a complete IT infrastructure that integrates:
 ---
 
 ## 👨‍💻 Author
-Your Name - [](https://www.linkedin.com/in/abdallah-mohamed-1928851b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+Abdallah Mohamed - [LinkedIn](https://www.linkedin.com/in/abdallah-mohamed-1928851b5)
